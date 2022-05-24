@@ -1,23 +1,23 @@
 body{
-    /* animation-name: exampla;
+    animation-name: exampla;
     animation-duration: 4s;
-    animation-iteration-count: 1; */
+    animation-iteration-count: 1;
     text-align: center;
     background-color: rgb(0, 0, 0);
 }
 
-body:hover{
+/* body:hover{
     animation-name: exampla;
     animation-duration: 4s;
     animation-iteration-count: 1;
-}
+} */
 p{
     animation-name: example;
     animation-duration: 4s;
     animation-iteration-count: 30000;
     font-size: 60px;
     font-family: helvetica;
-    color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
     -webkit-text-stroke-width: 1.5px;
     -webkit-text-stroke-color: rgb(255, 255, 255);
     width: auto;
@@ -64,7 +64,7 @@ a{
 }
 
 a:hover {
-    color: rgb(162, 162, 162);
+    color: rgb(255, 0, 0);
 }
 
 
