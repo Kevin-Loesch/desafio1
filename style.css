@@ -24,6 +24,10 @@ p{
     margin: 0%;
     margin-right: 0%;
 }
+.tudo{
+    width: 100%;
+    height: auto;
+}
 
 @keyframes example {
 
