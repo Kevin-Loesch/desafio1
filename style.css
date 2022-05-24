@@ -17,16 +17,12 @@ p{
     animation-iteration-count: 30000;
     font-size: 60px;
     font-family: helvetica;
-    color: black;
+    color: rgb(255, 255, 255);
     -webkit-text-stroke-width: 1.5px;
     -webkit-text-stroke-color: rgb(255, 255, 255);
     width: auto;
     margin: 0%;
     margin-right: 0%;
-}
-.tudo{
-    width: 100%;
-    height: auto;
 }
 
 @keyframes example {
